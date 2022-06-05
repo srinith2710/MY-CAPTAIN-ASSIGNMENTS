@@ -19,7 +19,7 @@ if __name__ == '__main__':
     student_num = 1
 
     while (condition):
-        print('Entered Student #{} info: '.format(student_num))
+        print('Enter Student #{} info: '.format(student_num))
         stu_firstname = input('First Name: ')
         stu_lastname = input('Last Name: ')
         stu_class = input('Class: ')
